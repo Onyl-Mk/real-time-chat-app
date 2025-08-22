@@ -61,12 +61,21 @@ The app features a complete user authentication system, editable user profiles w
 
 Login Screen
 	
+![Screenshot_2025-08-22-18-33-15-608_host exp exponent](https://github.com/user-attachments/assets/131dad85-9791-4eaf-aae3-93554a867d55)
+
+![Screenshot_2025-08-22-18-33-19-262_host exp exponent](https://github.com/user-attachments/assets/306aaac7-2362-4088-9635-c5bf1bba5583)
 
 Chat List
 	
+![Screenshot_2025-08-22-18-29-13-375_host exp exponent](https://github.com/user-attachments/assets/b3c1b550-72b8-481f-b7c2-b8b39880e9f2)
+
+![Screenshot_2025-08-22-18-33-41-403_host exp exponent](https://github.com/user-attachments/assets/6104e3f4-72a6-4545-8a35-af69dcc1aa88)
 
 Chat Screen
 
+![Screenshot_2025-08-22-18-34-30-752_host exp exponent](https://github.com/user-attachments/assets/0b4acd4f-38a1-491c-abc5-c22c4780aa94)
+
+![Screenshot_2025-08-22-18-35-13-838_host exp exponent](https://github.com/user-attachments/assets/b6f57995-8c6c-43a8-a6b5-206256cc2644)
 
 	
 
@@ -75,13 +84,20 @@ Chat Screen
 
 
 Profile Screen
+
+
+![Screenshot_2025-08-22-18-33-50-738_host exp exponent](https://github.com/user-attachments/assets/2e2378f7-2fd7-436e-b383-02e1379e7535)
 	
 
 Edit Profile
-	
+
+ 
+![Screenshot_2025-08-22-18-33-56-341_host exp exponent](https://github.com/user-attachments/assets/ceafb68e-d09c-40d5-8a5f-09a00ac66856)
 
 New Chat
 
+
+![Screenshot_2025-08-22-18-40-29-352_host exp exponent](https://github.com/user-attachments/assets/6de411fb-c2e1-42e3-9501-6178fbf69a71)
 
 	
 
